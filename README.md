@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, i'm Jose
 
-<!--
-**itsnotjose/itsnotjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const jose = {
+  frontend: [React, Javascript, NodeJS, CSS, Bootstrap],
+  backend: [Express, Node, MySQL],
+  testingDeployment: [Jest, Heroku],
+  developerTools: [Git, Handlebars],
+  education: {
+                        universityOfUtah: "Certificate in Full Stack Web Development "
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      },
+ 
+}
+```
