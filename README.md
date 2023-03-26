@@ -2,10 +2,10 @@
 
 ```javascript
 const jose = {
-  frontend: [React, Javascript, NodeJS, CSS, Bootstrap],
-  backend: [Express, Node, MySQL],
+  frontend: [React, Javascript, jQuery, CSS, Bootstrap],
+  backend: [Express, NodeJHS, NoSQL, MySQL],
   testingDeployment: [Jest, Heroku],
-  developerTools: [Git, Handlebars],
+  developerTools: [Git, Npm, WebPack],
   education: {
                         universityOfUtah: "Certificate in Full Stack Web Development "
 
