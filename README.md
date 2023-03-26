@@ -2,7 +2,7 @@
 
 ```javascript
 const jose = {
-  frontend: [React, Javascript, jQuery, CSS, Bootstrap],
+  frontend: [React, Javascript, JQuery, CSS, Bootstrap],
   backend: [Express, NodeJHS, NoSQL, MySQL],
   testingDeployment: [Jest, Heroku],
   developerTools: [Git, Npm, WebPack],
